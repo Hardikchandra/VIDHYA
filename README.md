@@ -85,7 +85,7 @@ Implemented under the *Unnat Bharat Abhiyan* initiative.
 ## 🤝 Contributors
 
 * Developed under Unnat Bharat Abhiyan (MoE, Govt. of India)
-* Guided by IIT Delhi
+* Guided by UBA
 * Implemented by project team at Amity University
 
 ---
