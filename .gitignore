@@ -1,0 +1,38 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+myenv/
+vidhya_face_recog2.0/vidhya_env/
+
+# Build/Cache
+.cache/
+*.tmp
+*.bak
+
+# Archives
+*.zip
+
+# Large vendor/build trees
+opencv-4.x/
+opencv_contrib-4.x/
+opencv-4.x/build/
+
+# Local data/output (keep datasets if needed; adjust as desired)
+gstshark_*/
+transcription_log.txt
+speech_output.csv
+hailort.log
